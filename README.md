@@ -22,4 +22,4 @@
 
 # 💬 Contacts
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-181717.svg?&style=flat-square&logo=GitHub&logoColor=white&link=https://gohjay.github.io/)](https://gohjay.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=kojh6763@gmail.com)](kojh6763@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:kojh6763@gmail.com)](mailto:kojh6763@gmail.com)
